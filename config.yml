@@ -1,6 +1,6 @@
 author: 若离QQ：2909998156
 # 推送方式：0：邮件推送；1：qmsg推送；2：pushplus推送
-sendT
+send9999999
 # 当且仅当sendType为0时有用，邮箱API的地址
 emailApiUrl: 'https://api.ruoli.cc/mail/sendMail'
 # 当且仅当sendType为1时有用，qmsg的Key（如需使用请自行更改）
@@ -15,7 +15,7 @@ encryptApi: 'https://api.ruoli.cc/wise/getEncryption'
 ##################################################
 users:
   - user:
-      # 任务类型（收集：0、签到：1、查寝：2）
+      # 任务类型（收集：0、签到：1、查寝
       type: 1
       #username 学号或者工号
       username: '20182693'
